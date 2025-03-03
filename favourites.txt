@@ -1,4 +1,3 @@
-This is new file.
 List of Fav Movies
 ASVR
 Bahubali
@@ -8,3 +7,6 @@ Rangasthalam
 Bahubali2
 Pushpa2
 RRR
+Biryani
+Dal
+Paneer Butter Masala
