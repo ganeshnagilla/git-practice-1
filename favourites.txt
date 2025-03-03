@@ -1,9 +1,3 @@
-This is new file.
-List of Fav Movies
-ASVR
-Bahubali
-Pushpa
-Nannaku Prematho
-Rangasthalam
-Bahubali2
-Pushpa2
+Biryani
+Dal
+Paneer Butter Masala
